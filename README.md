@@ -24,3 +24,13 @@ This project focuses on cleaning raw sales data and building an interactive sale
 
 ## 📁File
 - `Excel_Sales_Data_Cleaning_and_Dashboard.xlsx`
+
+🧠 *Author*
+
+Jayanth R
+Data Science Postgraduate | Data Analyst | Python Enthusiast
+📍 Thanjavur, Tamil Nadu, India
+📧 jayanthr239@gmail.com
+
+⭐ If you found this project useful, don’t forget to star the repository!
+
